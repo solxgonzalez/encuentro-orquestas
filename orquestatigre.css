@@ -6,8 +6,7 @@
 }
 
 html {
-    width: 100%;
-    height: 100vh;
+    
     background: linear-gradient(rgba(255, 255, 255, 0.473),rgba(255, 255, 255, 0.473)),
     url(./IMG-20240708-WA0146.jpg);
     text-align: center;
@@ -97,6 +96,14 @@ p ,.fecha, .lugar, .direccion {
     font-size: 1.3rem;
     font-weight: 600;
     margin-right: 10px;
+}
+
+@media (max-width: 1200px) {
+
+    html {
+        background-origin: content-box;
+        background-size: contain;
+    }
 }
 
 /* Sol González para Orquesta escuela Rincón de Milberg, Tigre*/
