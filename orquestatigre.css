@@ -10,7 +10,7 @@ html {
     background: linear-gradient(rgba(255, 255, 255, 0.473),rgba(255, 255, 255, 0.473)),
     url(./IMG-20240708-WA0146.jpg);
     text-align: center;
-    background-size: cover;
+    background-size: contain;
     display: flex;
     justify-content: center;
 }
