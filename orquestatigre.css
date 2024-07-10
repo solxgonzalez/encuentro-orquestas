@@ -88,12 +88,13 @@ p ,.fecha, .lugar, .direccion {
     border-radius: 10px;
     text-shadow: 1px 4px 3px whitesmoke;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
 .temas {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: 600;
     margin-right: 10px;
 }
