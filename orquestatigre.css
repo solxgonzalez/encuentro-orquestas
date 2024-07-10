@@ -16,10 +16,9 @@ html {
 }
 
 .titulo {
-    font-size: 1.3rem;
-    color: bisque;
+    font-size: 1.1rem;
+    color: rgb(10, 6, 0);
     text-shadow: 4px 8px 6px grey;
-    background-color: red;
     border-radius: 20px;
     margin: 40px 16vw 30px 16vw;
     padding-bottom: 9px;
